@@ -37,7 +37,7 @@
 
     <h3 class="text-center">
       <span> 
-          Como Borrar Registro usando Checkbox con Laravel y Ajax ...
+          Borrar Registro usando Checkbox con Laravel y Ajax
             <strong id="profeAll">
               ({{ $totalProfesoresList->count() }})
             </strong> 
